@@ -1,5 +1,4 @@
-{
- "android": [{
+[{
   "user": "Alex",
   "rating": 5000,
   "maxScores": 200,
@@ -84,4 +83,3 @@
    "theme": 7
   }
  ]
-}
