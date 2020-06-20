@@ -1,88 +1,88 @@
 {
-  "records":
+  records:
   [{
-  "user": "Alex",
-  "rating": 5000,
-  "maxScores": 200,
-  "theme": 1
+  user: "Alex",
+  rating: 5000,
+  maxScores: 200,
+  theme: 1
  },
   {
-   "user": "Artem",
-   "rating": 4500,
-   "maxScores": 190,
-   "theme": 1
+   user: "Artem",
+   rating: 4500,
+   maxScores: 190,
+   theme: 1
   },
   {
-   "user": "Ksenya",
-   "rating": 4500,
-   "maxScores": 200,
-   "theme": 2
+   user: "Ksenya",
+   rating: 4500,
+   maxScores: 200,
+   theme: 2
   },
   {
-   "user": "Nastya",
-   "rating": 6000,
-   "maxScores": 250,
-   "theme": 4
+   user: "Nastya",
+   rating: 6000,
+   maxScores: 250,
+   theme: 4
   },
   {
-   "user": "Bob",
-   "rating": 4000,
-   "maxScores": 150,
-   "theme": 3
+   user: "Bob",
+   rating: 4000,
+   maxScores: 150,
+   theme: 3
   },
   {
-   "user": "Billy",
-   "rating": 6000,
-   "maxScores": 240,
-   "theme": 3
+   user: "Billy",
+   rating: 6000,
+   maxScores: 240,
+   theme: 3
   },
   {
-   "user": "Alex2",
-   "rating": 5200,
-   "maxScores": 210,
-   "theme": 5
+   user: "Alex2",
+   rating: 5200,
+   maxScores: 210,
+   theme: 5
   },
   {
-   "user": "John",
-   "rating": 6500,
-   "maxScores": 270,
-   "theme": 5
+   user: "John",
+   rating: 6500,
+   maxScores: 270,
+   theme: 5
   },
   {
-   "user": "Anne",
-   "rating": 5500,
-   "maxScores": 200,
-   "theme": 4
+   user: "Anne",
+   rating: 5500,
+   maxScores: 200,
+   theme: 4
   },
   {
-   "user": "Vasya",
-   "rating": 3000,
-   "maxScores": 120,
-   "theme": 1
+   user: "Vasya",
+   rating: 3000,
+   maxScores: 120,
+   theme: 1
   },
   {
-   "user": "Scott",
-   "rating": 7000,
-   "maxScores": 280,
-   "theme": 6
+   user: "Scott",
+   rating: 7000,
+   maxScores: 280,
+   theme: 6
   },
   {
-   "user": "Lee",
-   "rating": 6800,
-   "maxScores": 270,
-   "theme": 5
+   user: "Lee",
+   rating: 6800,
+   maxScores: 270,
+   theme: 5
   },
   {
-   "user": "Van Damm",
-   "rating": 2000,
-   "maxScores": 100,
-   "theme": 4
+   user: "Van Damm",
+   rating: 2000,
+   maxScores: 100,
+   theme: 4
   },
   {
-   "user": "Maksvell",
-   "rating": 8000,
-   "maxScores": 300,
-   "theme": 7
+   user: "Maksvell",
+   rating: 8000,
+   maxScores: 300,
+   theme: 7
   }
  ]
 }
